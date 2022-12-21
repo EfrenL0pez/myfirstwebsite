@@ -2640,7 +2640,7 @@ input, select, textarea {
 
 		#header .image.avatar {
 			margin: 0 0 1.1em 0;
-			width: 7em;
+			width: 8em;
 		}
 
 /* Footer */
@@ -2980,7 +2980,7 @@ input, select, textarea {
 
 /* XLarge */
 
-	@media screen and (max-width: 1800px) {
+	@media screen and (max-width: 1900px) {
 
 		/* Basic */
 
@@ -2992,17 +2992,17 @@ input, select, textarea {
 
 /* Large */
 
-	@media screen and (max-width: 1600px) {
+	@media screen and (max-width: 1700px) {
 
 		/* Header */
 
 			#header {
-				padding: 6em 1em .5em 1em;
-				width: 22%;
+				padding: 6em 1.1em .5em 1.1em;
+				width: 225px;
 			}
 
 				#header h1 {
-					font-size: 1.30em;
+					font-size: 1.25em;
 				}
 
 					#header h1 br {
@@ -3036,7 +3036,7 @@ input, select, textarea {
 
 /* Medium */
 
-	@media screen and (max-width: 980px) {
+	@media screen and (max-width: 1000px) {
 
 		/* Basic */
 
