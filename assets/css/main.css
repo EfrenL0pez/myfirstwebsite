@@ -2197,7 +2197,7 @@ input, select, textarea {
 
 		ul.icons li {
 			display: inline-block;
-			padding: 0 1em 0 0;
+			padding: 0 1.5em 0 0;
 		}
 
 			ul.icons li:last-child {
@@ -2602,7 +2602,7 @@ input, select, textarea {
 		left: 0;
 		padding: 8em 4em;
 		position: fixed;
-		text-align: right;
+		text-align: center;
 		top: 0;
 		width: 35%;
 	}
@@ -2639,8 +2639,8 @@ input, select, textarea {
 		}
 
 		#header .image.avatar {
-			margin: 0 0 1em 0;
-			width: 6.25em;
+			margin: 0 0 1.1em 0;
+			width: 7em;
 		}
 
 /* Footer */
@@ -2992,17 +2992,17 @@ input, select, textarea {
 
 /* Large */
 
-	@media screen and (max-width: 1500px) {
+	@media screen and (max-width: 1600px) {
 
 		/* Header */
 
 			#header {
-				padding: 6em 3em 3em 3em;
-				width: 26%;
+				padding: 6em 2em .75em 2em;
+				width: 21%;
 			}
 
 				#header h1 {
-					font-size: 1.25em;
+					font-size: 1.30em;
 				}
 
 					#header h1 br {
@@ -3026,7 +3026,7 @@ input, select, textarea {
 		/* Main */
 
 			#main {
-				margin-left: 30%;
+				margin-left: 25%;
 				max-width: none;
 				padding: 6em 3em 3em 3em;
 				width: calc(100% - 30%);
