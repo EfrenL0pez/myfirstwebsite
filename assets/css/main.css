@@ -784,7 +784,7 @@ input, select, textarea {
 				display: flex;
 				flex-wrap: wrap;
 				box-sizing: border-box;
-				align-items: stretch;
+				align-items: s;
 			}
 
 				.row > * {
@@ -972,11 +972,11 @@ input, select, textarea {
 
 				.row {
 					margin-top: 0;
-					margin-left: -2em;
+					margin-left: -1.25em;
 				}
 
 					.row > * {
-						padding: 0 0 0 2em;
+						padding: 0 0 0 2.5em;
 					}
 
 					.row.gtr-uniform {
@@ -2689,7 +2689,7 @@ input, select, textarea {
 	}
 
 		#main > section {
-			border-top: solid 2px #efefef;
+			border-top: solid 3px #efefef;
 			margin: 4em 0 0 0;
 			padding: 4em 0 0 0;
 		}
@@ -2997,8 +2997,8 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 6em 2em .75em 2em;
-				width: 21%;
+				padding: 6em 1em .5em 1em;
+				width: 22%;
 			}
 
 				#header h1 {
